@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alexod24
-- 👀 I’m interested in the programming and ...
-- 🌱 I’m currently learning Java script and library React
-- 💞️ I’m looking to collaborate on multiple projects to learn
+- 👋 Hi, I’m @Alexod24.
+- 👀 I’m interested in the programming.
+- 🌱 I’m currently learning Java script and library React.
+- 💞️ I’m looking to collaborate on multiple projects to learn.
 - 📫 You can contact me by email or cell phone number.
   ° Email: alex.od2408@gmail.com
   ° Cell phone: +51 960 700 355
