@@ -40,8 +40,4 @@ Disfruto construyendo tecnología que la gente realmente quiera usar. Me muevo e
 * 🐈 **Cat Lover:** Mi oficina en casa la comparto con **muchos gatos**.
 * 🎯 **Enfoque:** Creo firmemente en la productividad consciente y los buenos hábitos para lograr resultados consistentes.
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexod24&show_icons=true&theme=gotham&hide_border=true" alt="Estadísticas de GitHub de Alex" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexod24&layout=compact&theme=gotham&hide_border=true" alt="Lenguajes Principales" />
-</div>
+
